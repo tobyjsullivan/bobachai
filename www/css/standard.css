@@ -1,0 +1,251 @@
+p {
+	margin: 2px 2px 2px 2px;
+}
+
+div#top_section {
+	padding: 5px;
+}
+
+div#left_section {
+	margin-right:140px;
+	margin-left:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+div#right_section {
+	margin: 5px 5px 5px 5px;
+	width:130px;
+	float:right;
+}
+
+div#bottom_section  {
+	clear:both;
+}
+
+p#copyright {
+	text-align:center;
+	font-size:9px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+div#mix_tea_ingredient_selection {
+}
+
+div#mix_tea_ingredient_selection p {
+	margin-top:5px;
+	margin-bottom:10px;
+	font-size:12px;
+	font-weight:bold;
+}
+
+div#ingredient_shop_products_list {
+	border-bottom:#999999 1px solid;
+	overflow:hidden;
+}
+
+div#ingredient_shop_department_selection {
+}
+
+div#send_bubble_tea {
+	width:490px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div.right_menu_box {
+	border:#3B5998 solid 2px;
+	margin-bottom:10px;
+}
+
+div.right_menu_box p {
+	text-align:center;
+}
+
+div#balance_box {
+}
+
+div.page_selection {
+	clear:left;
+}
+
+div.page_selection p {
+	text-align:right;
+}
+
+div.page_selection a.selected_page {
+	font-weight:bold;
+}
+
+div.instruction_box {
+	border: #999999 solid 1px;
+	margin-bottom:10px;
+	text-align:center;
+	padding:5px;
+}
+
+div.product_listing {
+	border-top:#999999 1px solid;
+	clear:both;
+}
+
+div#mix_tea_preview {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div.compact_tea_list {
+	border-top:#999999 1px solid;
+	border-bottom:#999999 1px solid;
+	overflow:hidden;
+}
+
+div.compact_tea_list_row {
+	clear:both;
+}
+
+div.compact_tea_list_item {
+	text-align:center;
+	width:122px;
+	float:left;
+}
+
+div.compact_tea_list_item p {
+	text-align:center;
+}
+
+div.right_menu_tea_list_item {
+	float:none;
+	width:122px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div.detailed_tea_list {
+	border-bottom:#999999 1px solid;
+	overflow:hidden;
+}
+
+div.detailed_tea_list_item {
+	clear:both;
+	border-top:#999999 1px solid;
+}
+
+div.detailed_tea_list_image {
+	float:left;
+}
+
+div.tea_image {
+	width:200px;
+	height:300px;
+	margin:5px 5px 5px 5px;
+	border:#999999 solid 1px;
+	background-color:#FFFFFF;
+}
+
+div.tea_image_thumbnail {
+	width:100px;
+	height:150px;
+	margin:5px 5px 5px 5px;
+	border:#999999 solid 1px;
+	background-color:#FFFFFF;
+}
+
+div.product_image {
+	float:left;
+}
+
+div.product_description {
+	min-height:100px;
+}
+	
+
+p.right_menu_header {
+	background-color:#3B5998;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFFFFF;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	height:16px;
+}
+
+a.right_menu_link {
+	text-align:center;
+	margin-bottom:2px;
+	margin-top:3px;
+	font-weight:normal;
+	font-size:11px;
+}
+
+p.compact_tea_list_name {
+	font-weight:bold;
+}
+
+p.product_name {
+	font-family:"Times New Roman", Times, serif;
+	font-size:24px;
+	font-weight:bold;
+	color:#006699;
+}
+
+p.product_price {
+	font-size: 18px;
+	font-weight:bold;
+}
+
+p.detailed_tea_list_name {
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#006699;
+}
+
+p.detailed_tea_list_message {
+	font-style:italic;
+	font-family:"Times New Roman", Times, serif;
+	font-size:12px;
+}
+
+p.detailed_tea_list_date {
+	color:#666666;
+}
+
+p#account_balance {
+	margin-top:5px;
+	margin-bottom:5px;
+	font-size:32px;
+	font-weight:bold;
+	text-align:center;
+}
+
+p#send_tea_submit {
+	text-align:center;
+}
+
+p.notification {
+	font-style:italic;
+}
+
+p.ingredient_option {
+	text-align:center;
+}
+
+input.button {
+	color:#FFFFFF;
+	background-color:#3B5998;
+	border: #6D84B4 outset 2px;
+}
+
+input#product_buy_button {
+	float:right;
+}
+
+textarea#send_tea_message {
+	width:480px;
+	border:#6D84B4 solid 1px;
+}
